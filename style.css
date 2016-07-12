@@ -3,18 +3,18 @@ body{
   height:50%;
   background-image: url(https://s-media-cache-ak0.pinimg.com/originals/01/01/c2/0101c28269fd4d2265335df663accc79.gif);
   background-size:cover;
-  background-repeat:no-repeat; 
+  background-repeat:repeat;
 }
 
 .box{
-    background-color: white;
-    border:soild-black 10px;
+    background-color:white;
+    border:blue;20px;
 }
 
  button{
-  background-color:blue;
+  background-color:cyan;
   border:none;
-  color:orange;
+  color:red;
   padding:20px 10px;
   text-align:center; 
   font-size:16px;
@@ -30,6 +30,6 @@ body{
  p{
      font-family:"arial";
      font-size:25px;
-     color:Cyan;
+     color:gold;
      
  }
