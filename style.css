@@ -1,0 +1,35 @@
+body{
+  width:200%;
+  height:50%;
+  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/01/01/c2/0101c28269fd4d2265335df663accc79.gif);
+  background-size:cover;
+  background-repeat:no-repeat; 
+}
+
+.box{
+    background-color: white;
+    border:soild-black 10px;
+}
+
+ button{
+  background-color:blue;
+  border:none;
+  color:orange;
+  padding:20px 10px;
+  text-align:center; 
+  font-size:16px;
+  margin:4px 10px;
+  cursor:pointer;
+  border-radius:20px;
+ }
+ 
+ h1,p {
+     color:Red;
+ }
+ 
+ p{
+     font-family:"arial";
+     font-size:25px;
+     color:Cyan;
+     
+ }
