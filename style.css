@@ -7,20 +7,22 @@ body{
 }
 
 .box{
+    
     background-color:white;
-    border:blue;20px;
+   border:blue;20px;
+    
 }
 
  button{
-  background-color:cyan;
-  border:none;
+  background-color:Aqua;
+  border:Black;
   color:red;
-  padding:20px 10px;
-  text-align:center; 
-  font-size:16px;
-  margin:4px 10px;
+  padding:20px 30px;
+  text-align:left; 
+  font-size:18px;
+  margin:29px 30px;
   cursor:pointer;
-  border-radius:20px;
+  border-radius:30px;
  }
  
  h1,p {
@@ -29,7 +31,8 @@ body{
  
  p{
      font-family:"arial";
-     font-size:25px;
+     font-size:30px;
      color:gold;
      
  }
+ 
